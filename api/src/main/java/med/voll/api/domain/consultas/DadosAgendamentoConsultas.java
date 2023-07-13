@@ -16,4 +16,7 @@ public record DadosAgendamentoConsultas(
         LocalDateTime data,
         Especialidade especialidade
 ) {
+
+
+
 }
